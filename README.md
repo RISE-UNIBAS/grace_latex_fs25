@@ -6,9 +6,11 @@ The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anth
 ## Schedule
 
 **May 13th, 2025**
+
 tba
 
-**may 20th, 2025**
+**May 20th, 2025**
+
 tba
 
 ## Overleaf

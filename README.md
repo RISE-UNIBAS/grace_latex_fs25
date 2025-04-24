@@ -1,17 +1,15 @@
 # LaTeX Crash Course (GRACE)
 
-GitHub repository for the LaTeX crash course offered by GRACE at Uni Basel on November 25th and December 2nd, 2024, 9am-1pm.\
+GitHub repository for the LaTeX crash course offered by GRACE at Uni Basel on May 13th and May 20th, 2025, 9am-1pm.\
 The course is taught by [Dr. Anthea Alberto](https://rise.unibas.ch/de/team/anthea-alberto/).
 
 ## Schedule
 
-**November 25th, 2024**
+**May 13th, 2025**
+tba
 
-![Bildschirmfoto 2023-10-27 um 10 52 30](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/ca752d15-5986-42f4-a88e-b267b3edc286)
-
-**December 2nd, 2024**
-
-![Bildschirmfoto 2023-11-16 um 14 02 38](https://github.com/RISE-UNIBAS/grace_latex_HS23/assets/94174603/7ec17354-f235-4e7d-ac9b-d85563228e71)
+**may 20th, 2025**
+tba
 
 ## Overleaf
 
@@ -20,8 +18,8 @@ A useful resource are the [Overleaf Tutorials](https://www.overleaf.com/learn).
 
 ## Evaluation
 
-You will be given time near the end of the second course day on November 20th to fill out the evaluation. You can find it by scanning the QR code below or by going here: https://evasys.unibas.ch/evasys/online.php?p=MET57
-![QRCode_Evaluation_LaTex](https://github.com/user-attachments/assets/bc02b6ca-40b0-46a9-9312-6efebdee6c5c)
+You will be given time near the end of the second course day on November 20th to fill out the evaluation. You can find it by scanning the QR code below or by going here: https://evasys.unibas.ch/evasys/online.php?p=UK9DE
+![QRCode_Eval _Latex_Crash_Course](https://github.com/user-attachments/assets/d7928920-5b31-4455-92d6-cce371b91a63)
 
 
 Thank you for taking the time to complete the evaluation!
